@@ -1,0 +1,109 @@
+html,body{
+    height: 100%;
+    background-color: #f4fafd;
+}
+
+.box{
+    background-image:linear-gradient(#eff8fec7,#eff8fec7), url("images/skyline.jpg"); 
+    background-size: cover;
+    height: 100%;
+    width: 70%;
+    position: relative;
+    left: 15%;
+}
+
+#logo{
+    height: 20%;
+    width: 20%;
+    position: relative;
+    left:37%;
+    top:10%;
+    padding: 1%;
+    background-color:inherit;
+}
+#logo-img{
+    height: 100%;
+    width: 140%;
+    position: relative;
+    right: 10%;
+    bottom: 30%;
+    border-radius: 50%;
+}
+.style1{
+    margin-left:10%;
+    margin-right: 10%;
+    position: relative;
+    bottom: 5vh;   
+    height: 4vh;
+    width: 80%;
+    font-size: 2vh;
+    background-color: inherit;
+    border: none;
+    border-bottom:1.5px solid #fff;
+}
+.style1::placeholder{
+    color: #f0eaea;
+    opacity: 1;
+    position: relative;
+    left: 2vw;
+}
+.user{
+    margin-top: 5%;
+}
+.btn{
+    margin-top: 5%;
+    padding: 5%;
+    width: 80px;
+    height: 25px;
+    position: relative;
+    left:35%;
+    border-radius: 38px;
+    border-style: none;
+    color: #646161;
+    font-size: 11px;
+}
+.txt{
+    position: relative;
+    left: 37%;
+    top: 2.5vw;
+    font-size: 10px;
+    font-family: sans-serif;
+    color: #ccc;
+}
+.check{
+    margin-bottom:12%;
+    margin-left: 10%;
+    font-size: 10px;
+    color: #f0eaea;
+    font-family: sans-serif;
+}
+.container{
+    background-image: linear-gradient(#7070f5,#b630b6);
+    display:inline-block;
+    position: relative;
+    left:32%;
+    top:5vw;
+    width: 40%;
+    height: 38vw;
+    border-radius: 10px;
+}
+.login{
+    position: relative;
+    text-align: center;
+    top:8%;
+    color: #fff;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.main{
+    position: relative;
+    top:10%;
+}
+.imgs{
+    background-color:inherit;
+    height:2vh;
+    width:1vw;
+    position: relative;
+    top: -7px;
+    left: 10%;
+}
