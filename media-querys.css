@@ -1,0 +1,198 @@
+@media only screen and (max-width: 2560px){
+    .login{
+        top:6%;
+        font-size: 40px;
+    }
+    .style1{
+        margin-left:10%;
+        margin-right: 10%;
+        position: relative;
+        bottom: 5vh;
+        font-size: 2vh;
+    }
+    .btn{
+        width: 130px;
+        font-size: 18px;
+    }
+    .txt{
+        left: 39%;
+        font-size: 13px;
+    }
+    .check{
+        font-size: 13px;
+    }
+    .container{
+        width: 42%;
+        height: 40vw;
+    }
+    .imgs{
+        height:1.5vh;
+        top: -13px;
+    }
+}
+
+@media only screen and (max-width: 1440px){
+    .login{
+    top:8%;
+    font-size: 30px;
+    }
+    .btn{
+            margin-top: 5%;
+            padding: 5%;
+            width: 100px;
+            height: 25px;
+            left:35%;
+            font-size: 11px;
+        }
+    .txt{
+    left: 38%;
+    font-size: 13px;
+     }
+    .check{
+    font-size: 13px;
+    }
+   .style1{
+    bottom: 3vh;
+    font-size: 1.8vh;
+    }
+    .imgs{
+        top: 4px;
+    }
+   }
+
+@media only screen and (max-width: 1024px){
+    .btn{
+        margin-top: 3%;
+        width: 80px;
+    }
+    .txt{
+        left: 36%;
+        top: 1vw;
+        font-size: 10px;
+    }
+    .imgs{
+        height:1.5vh;
+        top: -25px;
+    }
+    .style1{
+        bottom: 6vh;
+        font-size: 1.5vh;
+        }
+        .login{
+            top:5%;
+            font-size: 20px;
+}
+.check{
+    position: relative;
+    bottom: 3vh;
+    font-size: 10px;
+}
+}
+
+@media only screen and (max-width: 768px){
+    .container{
+        width: 42%;
+        height: 45vw;
+    }
+    .login{
+        top:3%;
+        font-size: 18px;
+    }
+    .style1{
+        bottom: 7vh;   
+    }
+    .imgs{
+        height:1.5vh;
+        top: -24px;
+    }
+    .check{
+        position: relative;
+        bottom: 4vh;
+    }
+    .btn{
+    margin-top: -10vh;
+        width: 70px;
+    }
+    .txt{
+        left: 34%;
+        top: 0vw;
+    }
+}
+
+@media only screen and (max-width: 425px){
+    .container{
+        width: 70%;
+        height: 75vw;
+        left:15%;
+    }
+    .login{
+        font-size: 15px;
+    }
+    
+    .style1{
+        bottom: 7vh;   
+    } 
+    .check{
+        bottom: 4vh;
+    }
+    .imgs{
+        height:1.5vh;
+        width:1.5vw;
+        top: -25px;
+    }
+    .style1::placeholder{
+        left: 4vw;
+    }
+}
+
+@media only screen and (max-width: 375px){
+    .container{
+        width: 80%;
+        height: 80vw;
+        left:10%;
+    }
+    .imgs{
+        width:2vw;
+    }
+}
+
+@media only screen and (max-width: 320px){
+    .login{
+        top:10%;
+        font-size: 18px;
+    }
+    .box{
+        background-image:none; 
+    }
+    .container{
+        width: auto;
+        height: 80%;
+        left:5%;
+    }
+    #logo{
+        height: 13%;
+    }
+    .style1{
+        margin-left:10%;
+        margin-right: 10%;
+        position: relative;
+        bottom: 1vh; 
+    }
+    .imgs{
+        height:1.5vh;
+        width:2vw;
+        top: 17px;
+    }
+    .check{
+        bottom: -6vh;
+    }
+    .btn{
+        margin-top: 35%;
+        width: 90px;
+        left: 30%;
+        height: 30px;
+    }
+    .txt{
+        top: 7vw;
+    }
+}

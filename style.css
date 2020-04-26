@@ -36,6 +36,7 @@ html,body{
     bottom: 5vh;   
     height: 4vh;
     width: 80%;
+    color: #fff;
     font-size: 2vh;
     background-color: inherit;
     border: none;
@@ -100,7 +101,6 @@ html,body{
     top:10%;
 }
 .imgs{
-    background-color:inherit;
     height:2vh;
     width:1vw;
     position: relative;
